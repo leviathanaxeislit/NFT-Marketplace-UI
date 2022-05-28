@@ -34,7 +34,7 @@ const Create = () => {
             <div className="twoForm">
               <input type="text" placeholder='Price'  />
               <select>
-                <option value="ETH">ETH</option>
+                <option value="ETH">WINR</option>
                 <option value="BTC">BTC</option>
                 <option value="LTC">LTC</option>
               </select>
